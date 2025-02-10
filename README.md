@@ -1,4 +1,4 @@
-# Superforecasting Project - Business Analytics
+# Superforecasting Project 
 
 ## Overview
 This project applies **Bayesian forecasting** to predict outcomes for three real-world scenarios:
